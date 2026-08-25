@@ -28,3 +28,6 @@ rmdir NOME_DA_PASTA
 
 // Cria pasta
 mkdir NOME_DA_PASTA
+
+// Atualiza o repositorio clonado com os arquivos da nuvem não atualizados se precisar digite :wq em uma tela esquisita
+git pull
