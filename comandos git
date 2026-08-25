@@ -1,0 +1,30 @@
+Como usar git no treminal
+
+clonar repositorio:
+-git clone URL_DO_REPOSITORIO;
+
+ATENÇÂO ONDE BAIXAR O REPOSITORIO
+
+// Verifica os arquivos dentro
+dir NOME_DO_REPOSITORIO 
+
+// Esse comando abre o arquivo selecionado
+notepad NOME_DO_ARQUIVO
+
+// cria uma espcie de area de preparação para o arquivo
+git add NOME_DO_ARQUIVO
+
+// mostra mensagem que serve pra saber o que vc fez naquela versão
+git commit -m "mensagem"
+
+// serve para atualizar pra nuvem
+git push
+
+//muda o nome do arquivo
+git mv NOME_ANTIGO NOME_NOVO
+
+// apaga pasta
+rmdir NOME_DA_PASTA
+
+// Cria pasta
+mkdir NOME_DA_PASTA
