@@ -9,7 +9,7 @@ ATENÇÂO ONDE BAIXAR O REPOSITORIO
 dir NOME_DO_REPOSITORIO 
 
 // Esse comando abre o arquivo selecionado
-notepad NOME_DO_ARQUIVO
+notepad (ou edit com o formato do arquivo) NOME_DO_ARQUIVO
 
 // cria uma espcie de area de preparação para o arquivo
 git add NOME_DO_ARQUIVO
@@ -31,3 +31,5 @@ mkdir NOME_DA_PASTA
 
 // Atualiza o repositorio clonado com os arquivos da nuvem não atualizados se precisar digite :wq em uma tela esquisita
 git pull
+
+//
